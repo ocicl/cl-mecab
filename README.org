@@ -1,0 +1,10 @@
+* cl-mecab
+
+MeCab bindings for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/carrotflakes/cl-mecab.git   |
+| commit  | a703505  |
+| systems | cl-mecab |
+|---------+-------------------------------------------|
+
