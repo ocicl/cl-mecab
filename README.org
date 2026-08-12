@@ -8,4 +8,4 @@ MeCab bindings for Common Lisp
 | systems | cl-mecab |
 |---------+-------------------------------------------|
 
- 
+  
